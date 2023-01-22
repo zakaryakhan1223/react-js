@@ -1,0 +1,8 @@
+.cardss{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-left: 0px;
+}

@@ -1,0 +1,35 @@
+.contact_main{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text_side{
+    height: auto;
+    width: 40%;
+}
+.text_side h2{
+    font-size: 35px;
+}
+.text_side p{
+    font-size: 20px;
+}
+.image_side{
+    height: auto;
+    width: 40%;
+}
+.image_side img{
+    height: 480px;
+    width: 100%;
+    margin-top: 10px;
+}
+.contact_Main{
+    height: 100vh;
+    width: 100%;
+}
+.footer_main{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    justify-content: center;
+}

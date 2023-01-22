@@ -1,0 +1,52 @@
+.record-Main {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+  background: transparent;
+}
+.record-image {
+  height: 400px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.record-Text {
+  width: auto;
+  height: auto;
+}
+.record-Text  h2{
+font-size: 35px;
+color: rgb(44, 44, 85);
+}
+.record-Text p{
+font-size: 20px;
+}
+.record-Image1 {
+  height: auto;
+  width: auto;
+}
+.record-Image2 {
+  height: auto;
+  width: auto;
+  margin-top: 100px;
+}
+.recordlink-Main {
+  width: auto;
+}
+.record-links {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  font-size: 24px;
+  color: rgb(44, 44, 85);
+}
+.record-link {
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+  color: rgb(82, 8, 167);
+  font-weight: bold;
+}

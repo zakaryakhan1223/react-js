@@ -1,0 +1,60 @@
+.Experties_Main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    margin-top: 100px;
+}
+.experties_Text{
+    height: 600px;
+    width: 50%;
+}
+.experties_images{
+    height: auto;
+    width: auto;
+}
+.text-side{
+    height: auto;
+    width: auto;
+margin-left: 50px;
+}
+
+.text-side p{
+    color: gray;
+
+}
+.experties-link{
+    height: auto;
+    width: auto;
+    margin-left: 50px;
+}
+.pro-link{
+    display: flex;
+    gap: 33px;
+    flex-direction: column;
+    height: 100px;
+    float: left;
+    width: 30px;
+    margin-top: 3px;
+}
+.pro-text{
+    height: 100px;
+    width: auto;
+}
+.pro-text span{
+    font-size: 10px;
+    color: gray;
+}
+.pro-text h5{
+    color: rgb(82, 8, 167);
+}
+.button-experties{
+    height: auto;
+    width: auto;
+    margin-left: 50px;
+}
+.experties_images img{
+    height: 500px;
+    width: 90%;
+}

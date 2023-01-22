@@ -1,0 +1,61 @@
+.project-Main{
+   height: 100vh;
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+.project-image{
+    height: 500px;
+    width: 60%;
+    display: flex;
+justify-content: space-evenly;
+}
+.project-text{
+    height: 500px;
+    width: 60%;
+}
+.project-card1{
+    height: auto;
+    width: 30%;
+    
+}
+.project-card1 img{
+width: 100%;
+}
+.project-card2 img{
+width: 100%;
+}
+.project-card2{
+    height: auto;
+    width: 30%;
+}
+.project-text1{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.project-text2{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.project-text2 p{
+    font-size: 10px;
+}
+.project-text p{
+    font-size: 18px;
+}
+.project-text h2{
+    font-size: 58px;
+}
+.icon-view a{
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.icon-view a:hover{
+  text-decoration: underline;
+  color: #12566B;
+}

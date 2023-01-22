@@ -1,0 +1,11 @@
+.header-btn{
+    font-size: 16px;
+    text-align: center;
+    border-radius: 0.25rem;
+    line-height: 30px;
+    font-weight: bold;
+}
+.header-btn:hover{
+cursor: pointer;
+box-shadow: 1px 0px 5px white,1px 0px 5px blue;
+}
